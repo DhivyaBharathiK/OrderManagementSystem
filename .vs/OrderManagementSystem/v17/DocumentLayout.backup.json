@@ -1,0 +1,368 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hsudhan\\source\\repos\\OrderManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB22244-98F4-468C-85D0-5E8DB04E1173}|OMS.Web.UnitTests\\OMS.Web.UnitTests.vbproj|c:\\users\\hsudhan\\source\\repos\\ordermanagementsystem\\oms.web.unittests\\addupdateorderdetailspresentertests.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5EB22244-98F4-468C-85D0-5E8DB04E1173}|OMS.Web.UnitTests\\OMS.Web.UnitTests.vbproj|solutionrelative:oms.web.unittests\\addupdateorderdetailspresentertests.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB22244-98F4-468C-85D0-5E8DB04E1173}|OMS.Web.UnitTests\\OMS.Web.UnitTests.vbproj|c:\\users\\hsudhan\\source\\repos\\ordermanagementsystem\\oms.web.unittests\\getorderdetailspresentertests.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5EB22244-98F4-468C-85D0-5E8DB04E1173}|OMS.Web.UnitTests\\OMS.Web.UnitTests.vbproj|solutionrelative:oms.web.unittests\\getorderdetailspresentertests.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8C1990-B644-47FB-B7CD-B14B1E390353}|OMS.Web\\OMS.Web.vbproj|c:\\users\\hsudhan\\source\\repos\\ordermanagementsystem\\oms.web\\presenter\\getorderdetailspresenter.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{AB8C1990-B644-47FB-B7CD-B14B1E390353}|OMS.Web\\OMS.Web.vbproj|solutionrelative:oms.web\\presenter\\getorderdetailspresenter.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8C1990-B644-47FB-B7CD-B14B1E390353}|OMS.Web\\OMS.Web.vbproj|c:\\users\\hsudhan\\source\\repos\\ordermanagementsystem\\oms.web\\adapter\\orderdetailsadapter.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{AB8C1990-B644-47FB-B7CD-B14B1E390353}|OMS.Web\\OMS.Web.vbproj|solutionrelative:oms.web\\adapter\\orderdetailsadapter.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8C1990-B644-47FB-B7CD-B14B1E390353}|OMS.Web\\OMS.Web.vbproj|c:\\users\\hsudhan\\source\\repos\\ordermanagementsystem\\oms.web\\presenter\\addupdateorderdetailspresenter.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{AB8C1990-B644-47FB-B7CD-B14B1E390353}|OMS.Web\\OMS.Web.vbproj|solutionrelative:oms.web\\presenter\\addupdateorderdetailspresenter.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8C1990-B644-47FB-B7CD-B14B1E390353}|OMS.Web\\OMS.Web.vbproj|c:\\users\\hsudhan\\source\\repos\\ordermanagementsystem\\oms.web\\interfaces\\igetorderdetailsview.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{AB8C1990-B644-47FB-B7CD-B14B1E390353}|OMS.Web\\OMS.Web.vbproj|solutionrelative:oms.web\\interfaces\\igetorderdetailsview.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8C1990-B644-47FB-B7CD-B14B1E390353}|OMS.Web\\OMS.Web.vbproj|c:\\users\\hsudhan\\source\\repos\\ordermanagementsystem\\oms.web\\getorderdetails.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{AB8C1990-B644-47FB-B7CD-B14B1E390353}|OMS.Web\\OMS.Web.vbproj|solutionrelative:oms.web\\getorderdetails.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8C1990-B644-47FB-B7CD-B14B1E390353}|OMS.Web\\OMS.Web.vbproj|c:\\users\\hsudhan\\source\\repos\\ordermanagementsystem\\oms.web\\ordermodel.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{AB8C1990-B644-47FB-B7CD-B14B1E390353}|OMS.Web\\OMS.Web.vbproj|solutionrelative:oms.web\\ordermodel.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEC444CD-13A2-4243-B14E-B19D71D01267}|OMS.Business\\OMS.Business.vbproj|c:\\users\\hsudhan\\source\\repos\\ordermanagementsystem\\oms.business\\order.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DEC444CD-13A2-4243-B14E-B19D71D01267}|OMS.Business\\OMS.Business.vbproj|solutionrelative:oms.business\\order.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23839A2E-B974-4BEA-8D7E-0FCB02724D4B}|OMS.Service\\OMS.Service.vbproj|c:\\users\\hsudhan\\source\\repos\\ordermanagementsystem\\oms.service\\orderdetailsmapper.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{23839A2E-B974-4BEA-8D7E-0FCB02724D4B}|OMS.Service\\OMS.Service.vbproj|solutionrelative:oms.service\\orderdetailsmapper.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDB965C8-637E-4E27-A84C-274900434F71}|OMS.DataAccess\\OMS.DataAccess.vbproj|c:\\users\\hsudhan\\source\\repos\\ordermanagementsystem\\oms.dataaccess\\ordermanagementdataaccess.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{BDB965C8-637E-4E27-A84C-274900434F71}|OMS.DataAccess\\OMS.DataAccess.vbproj|solutionrelative:oms.dataaccess\\ordermanagementdataaccess.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23839A2E-B974-4BEA-8D7E-0FCB02724D4B}|OMS.Service\\OMS.Service.vbproj|c:\\users\\hsudhan\\source\\repos\\ordermanagementsystem\\oms.service\\service1.svc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{23839A2E-B974-4BEA-8D7E-0FCB02724D4B}|OMS.Service\\OMS.Service.vbproj|solutionrelative:oms.service\\service1.svc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDB965C8-637E-4E27-A84C-274900434F71}|OMS.DataAccess\\OMS.DataAccess.vbproj|c:\\users\\hsudhan\\source\\repos\\ordermanagementsystem\\oms.dataaccess\\ordermanagementservice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{BDB965C8-637E-4E27-A84C-274900434F71}|OMS.DataAccess\\OMS.DataAccess.vbproj|solutionrelative:oms.dataaccess\\ordermanagementservice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8C1990-B644-47FB-B7CD-B14B1E390353}|OMS.Web\\OMS.Web.vbproj|c:\\users\\hsudhan\\source\\repos\\ordermanagementsystem\\oms.web\\addupdateorderdetails.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{AB8C1990-B644-47FB-B7CD-B14B1E390353}|OMS.Web\\OMS.Web.vbproj|solutionrelative:oms.web\\addupdateorderdetails.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8C1990-B644-47FB-B7CD-B14B1E390353}|OMS.Web\\OMS.Web.vbproj|c:\\users\\hsudhan\\source\\repos\\ordermanagementsystem\\oms.web\\addupdateorderdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AB8C1990-B644-47FB-B7CD-B14B1E390353}|OMS.Web\\OMS.Web.vbproj|solutionrelative:oms.web\\addupdateorderdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8C1990-B644-47FB-B7CD-B14B1E390353}|OMS.Web\\OMS.Web.vbproj|c:\\users\\hsudhan\\source\\repos\\ordermanagementsystem\\oms.web\\getorderdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AB8C1990-B644-47FB-B7CD-B14B1E390353}|OMS.Web\\OMS.Web.vbproj|solutionrelative:oms.web\\getorderdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23839A2E-B974-4BEA-8D7E-0FCB02724D4B}|OMS.Service\\OMS.Service.vbproj|c:\\users\\hsudhan\\source\\repos\\ordermanagementsystem\\oms.service\\iservice1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{23839A2E-B974-4BEA-8D7E-0FCB02724D4B}|OMS.Service\\OMS.Service.vbproj|solutionrelative:oms.service\\iservice1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8C1990-B644-47FB-B7CD-B14B1E390353}|OMS.Web\\OMS.Web.vbproj|c:\\users\\hsudhan\\source\\repos\\ordermanagementsystem\\oms.web\\addupdateorderdetails.aspx.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{AB8C1990-B644-47FB-B7CD-B14B1E390353}|OMS.Web\\OMS.Web.vbproj|solutionrelative:oms.web\\addupdateorderdetails.aspx.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8C1990-B644-47FB-B7CD-B14B1E390353}|OMS.Web\\OMS.Web.vbproj|c:\\users\\hsudhan\\source\\repos\\ordermanagementsystem\\oms.web\\interfaces\\iaddupdateorderdetails.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{AB8C1990-B644-47FB-B7CD-B14B1E390353}|OMS.Web\\OMS.Web.vbproj|solutionrelative:oms.web\\interfaces\\iaddupdateorderdetails.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEC444CD-13A2-4243-B14E-B19D71D01267}|OMS.Business\\OMS.Business.vbproj|c:\\users\\hsudhan\\source\\repos\\ordermanagementsystem\\oms.business\\vendor.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DEC444CD-13A2-4243-B14E-B19D71D01267}|OMS.Business\\OMS.Business.vbproj|solutionrelative:oms.business\\vendor.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetOrderDetailsPresenterTests.vb",
+              "DocumentMoniker": "C:\\Users\\hsudhan\\source\\repos\\OrderManagementSystem\\OMS.Web.UnitTests\\GetOrderDetailsPresenterTests.vb",
+              "RelativeDocumentMoniker": "OMS.Web.UnitTests\\GetOrderDetailsPresenterTests.vb",
+              "ToolTip": "C:\\Users\\hsudhan\\source\\repos\\OrderManagementSystem\\OMS.Web.UnitTests\\GetOrderDetailsPresenterTests.vb",
+              "RelativeToolTip": "OMS.Web.UnitTests\\GetOrderDetailsPresenterTests.vb",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAFsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-04T13:37:29.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddUpdateOrderDetailsPresenterTests.vb",
+              "DocumentMoniker": "C:\\Users\\hsudhan\\source\\repos\\OrderManagementSystem\\OMS.Web.UnitTests\\AddUpdateOrderDetailsPresenterTests.vb",
+              "RelativeDocumentMoniker": "OMS.Web.UnitTests\\AddUpdateOrderDetailsPresenterTests.vb",
+              "ToolTip": "C:\\Users\\hsudhan\\source\\repos\\OrderManagementSystem\\OMS.Web.UnitTests\\AddUpdateOrderDetailsPresenterTests.vb",
+              "RelativeToolTip": "OMS.Web.UnitTests\\AddUpdateOrderDetailsPresenterTests.vb",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-04T13:10:04.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderModel.vb",
+              "DocumentMoniker": "C:\\Users\\hsudhan\\source\\repos\\OrderManagementSystem\\OMS.Web\\OrderModel.vb",
+              "RelativeDocumentMoniker": "OMS.Web\\OrderModel.vb",
+              "ToolTip": "C:\\Users\\hsudhan\\source\\repos\\OrderManagementSystem\\OMS.Web\\OrderModel.vb",
+              "RelativeToolTip": "OMS.Web\\OrderModel.vb",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-04T12:46:03.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetOrderDetails.aspx.vb",
+              "DocumentMoniker": "C:\\Users\\hsudhan\\source\\repos\\OrderManagementSystem\\OMS.Web\\GetOrderDetails.aspx.vb",
+              "RelativeDocumentMoniker": "OMS.Web\\GetOrderDetails.aspx.vb",
+              "ToolTip": "C:\\Users\\hsudhan\\source\\repos\\OrderManagementSystem\\OMS.Web\\GetOrderDetails.aspx.vb",
+              "RelativeToolTip": "OMS.Web\\GetOrderDetails.aspx.vb",
+              "ViewState": "AgIAADsAAAAAAAAAAAD4v00AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-04T10:41:14.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetOrderDetails.aspx",
+              "DocumentMoniker": "C:\\Users\\hsudhan\\source\\repos\\OrderManagementSystem\\OMS.Web\\GetOrderDetails.aspx",
+              "RelativeDocumentMoniker": "OMS.Web\\GetOrderDetails.aspx",
+              "ToolTip": "C:\\Users\\hsudhan\\source\\repos\\OrderManagementSystem\\OMS.Web\\GetOrderDetails.aspx",
+              "RelativeToolTip": "OMS.Web\\GetOrderDetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-04T10:41:11.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddUpdateOrderDetails.aspx.vb",
+              "DocumentMoniker": "C:\\Users\\hsudhan\\source\\repos\\OrderManagementSystem\\OMS.Web\\AddUpdateOrderDetails.aspx.vb",
+              "RelativeDocumentMoniker": "OMS.Web\\AddUpdateOrderDetails.aspx.vb",
+              "ToolTip": "C:\\Users\\hsudhan\\source\\repos\\OrderManagementSystem\\OMS.Web\\AddUpdateOrderDetails.aspx.vb",
+              "RelativeToolTip": "OMS.Web\\AddUpdateOrderDetails.aspx.vb",
+              "ViewState": "AgIAAB8AAAAAAAAAAIAwwCYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-04T10:38:13.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddUpdateOrderDetails.aspx",
+              "DocumentMoniker": "C:\\Users\\hsudhan\\source\\repos\\OrderManagementSystem\\OMS.Web\\AddUpdateOrderDetails.aspx",
+              "RelativeDocumentMoniker": "OMS.Web\\AddUpdateOrderDetails.aspx",
+              "ToolTip": "C:\\Users\\hsudhan\\source\\repos\\OrderManagementSystem\\OMS.Web\\AddUpdateOrderDetails.aspx",
+              "RelativeToolTip": "OMS.Web\\AddUpdateOrderDetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-04T10:38:00.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddUpdateOrderDetails.aspx.designer.vb",
+              "DocumentMoniker": "C:\\Users\\hsudhan\\source\\repos\\OrderManagementSystem\\OMS.Web\\AddUpdateOrderDetails.aspx.designer.vb",
+              "RelativeDocumentMoniker": "OMS.Web\\AddUpdateOrderDetails.aspx.designer.vb",
+              "ToolTip": "C:\\Users\\hsudhan\\source\\repos\\OrderManagementSystem\\OMS.Web\\AddUpdateOrderDetails.aspx.designer.vb",
+              "RelativeToolTip": "OMS.Web\\AddUpdateOrderDetails.aspx.designer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-04T10:37:59.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetOrderDetailsPresenter.vb",
+              "DocumentMoniker": "C:\\Users\\hsudhan\\source\\repos\\OrderManagementSystem\\OMS.Web\\Presenter\\GetOrderDetailsPresenter.vb",
+              "RelativeDocumentMoniker": "OMS.Web\\Presenter\\GetOrderDetailsPresenter.vb",
+              "ToolTip": "C:\\Users\\hsudhan\\source\\repos\\OrderManagementSystem\\OMS.Web\\Presenter\\GetOrderDetailsPresenter.vb",
+              "RelativeToolTip": "OMS.Web\\Presenter\\GetOrderDetailsPresenter.vb",
+              "ViewState": "AgIAACYAAAAAAAAAAAAcwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-04T10:37:04.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IGetOrderDetailsView.vb",
+              "DocumentMoniker": "C:\\Users\\hsudhan\\source\\repos\\OrderManagementSystem\\OMS.Web\\Interfaces\\IGetOrderDetailsView.vb",
+              "RelativeDocumentMoniker": "OMS.Web\\Interfaces\\IGetOrderDetailsView.vb",
+              "ToolTip": "C:\\Users\\hsudhan\\source\\repos\\OrderManagementSystem\\OMS.Web\\Interfaces\\IGetOrderDetailsView.vb",
+              "RelativeToolTip": "OMS.Web\\Interfaces\\IGetOrderDetailsView.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-04T10:34:29.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IAddUpdateOrderDetails.vb",
+              "DocumentMoniker": "C:\\Users\\hsudhan\\source\\repos\\OrderManagementSystem\\OMS.Web\\Interfaces\\IAddUpdateOrderDetails.vb",
+              "RelativeDocumentMoniker": "OMS.Web\\Interfaces\\IAddUpdateOrderDetails.vb",
+              "ToolTip": "C:\\Users\\hsudhan\\source\\repos\\OrderManagementSystem\\OMS.Web\\Interfaces\\IAddUpdateOrderDetails.vb",
+              "RelativeToolTip": "OMS.Web\\Interfaces\\IAddUpdateOrderDetails.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-04T10:34:17.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderDetailsAdapter.vb",
+              "DocumentMoniker": "C:\\Users\\hsudhan\\source\\repos\\OrderManagementSystem\\OMS.Web\\Adapter\\OrderDetailsAdapter.vb",
+              "RelativeDocumentMoniker": "OMS.Web\\Adapter\\OrderDetailsAdapter.vb",
+              "ToolTip": "C:\\Users\\hsudhan\\source\\repos\\OrderManagementSystem\\OMS.Web\\Adapter\\OrderDetailsAdapter.vb",
+              "RelativeToolTip": "OMS.Web\\Adapter\\OrderDetailsAdapter.vb",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-04T10:29:45.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddUpdateOrderDetailsPresenter.vb",
+              "DocumentMoniker": "C:\\Users\\hsudhan\\source\\repos\\OrderManagementSystem\\OMS.Web\\Presenter\\AddUpdateOrderDetailsPresenter.vb",
+              "RelativeDocumentMoniker": "OMS.Web\\Presenter\\AddUpdateOrderDetailsPresenter.vb",
+              "ToolTip": "C:\\Users\\hsudhan\\source\\repos\\OrderManagementSystem\\OMS.Web\\Presenter\\AddUpdateOrderDetailsPresenter.vb",
+              "RelativeToolTip": "OMS.Web\\Presenter\\AddUpdateOrderDetailsPresenter.vb",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-04T10:27:31.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderDetailsMapper.vb",
+              "DocumentMoniker": "C:\\Users\\hsudhan\\source\\repos\\OrderManagementSystem\\OMS.Service\\OrderDetailsMapper.vb",
+              "RelativeDocumentMoniker": "OMS.Service\\OrderDetailsMapper.vb",
+              "ToolTip": "C:\\Users\\hsudhan\\source\\repos\\OrderManagementSystem\\OMS.Service\\OrderDetailsMapper.vb",
+              "RelativeToolTip": "OMS.Service\\OrderDetailsMapper.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-04T09:38:58.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Service1.svc.vb",
+              "DocumentMoniker": "C:\\Users\\hsudhan\\source\\repos\\OrderManagementSystem\\OMS.Service\\Service1.svc.vb",
+              "RelativeDocumentMoniker": "OMS.Service\\Service1.svc.vb",
+              "ToolTip": "C:\\Users\\hsudhan\\source\\repos\\OrderManagementSystem\\OMS.Service\\Service1.svc.vb",
+              "RelativeToolTip": "OMS.Service\\Service1.svc.vb",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwDQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-04T09:34:32.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IService1.vb",
+              "DocumentMoniker": "C:\\Users\\hsudhan\\source\\repos\\OrderManagementSystem\\OMS.Service\\IService1.vb",
+              "RelativeDocumentMoniker": "OMS.Service\\IService1.vb",
+              "ToolTip": "C:\\Users\\hsudhan\\source\\repos\\OrderManagementSystem\\OMS.Service\\IService1.vb",
+              "RelativeToolTip": "OMS.Service\\IService1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-04T09:30:20.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderManagementService.vb",
+              "DocumentMoniker": "C:\\Users\\hsudhan\\source\\repos\\OrderManagementSystem\\OMS.DataAccess\\OrderManagementService.vb",
+              "RelativeDocumentMoniker": "OMS.DataAccess\\OrderManagementService.vb",
+              "ToolTip": "C:\\Users\\hsudhan\\source\\repos\\OrderManagementSystem\\OMS.DataAccess\\OrderManagementService.vb",
+              "RelativeToolTip": "OMS.DataAccess\\OrderManagementService.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-04T08:52:31.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderManagementDataAccess.vb",
+              "DocumentMoniker": "C:\\Users\\hsudhan\\source\\repos\\OrderManagementSystem\\OMS.DataAccess\\OrderManagementDataAccess.vb",
+              "RelativeDocumentMoniker": "OMS.DataAccess\\OrderManagementDataAccess.vb",
+              "ToolTip": "C:\\Users\\hsudhan\\source\\repos\\OrderManagementSystem\\OMS.DataAccess\\OrderManagementDataAccess.vb",
+              "RelativeToolTip": "OMS.DataAccess\\OrderManagementDataAccess.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-04T08:50:58.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Vendor.vb",
+              "DocumentMoniker": "C:\\Users\\hsudhan\\source\\repos\\OrderManagementSystem\\OMS.Business\\Vendor.vb",
+              "RelativeDocumentMoniker": "OMS.Business\\Vendor.vb",
+              "ToolTip": "C:\\Users\\hsudhan\\source\\repos\\OrderManagementSystem\\OMS.Business\\Vendor.vb",
+              "RelativeToolTip": "OMS.Business\\Vendor.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-04T08:50:51.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.vb",
+              "DocumentMoniker": "C:\\Users\\hsudhan\\source\\repos\\OrderManagementSystem\\OMS.Business\\Order.vb",
+              "RelativeDocumentMoniker": "OMS.Business\\Order.vb",
+              "ToolTip": "C:\\Users\\hsudhan\\source\\repos\\OrderManagementSystem\\OMS.Business\\Order.vb",
+              "RelativeToolTip": "OMS.Business\\Order.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-04T08:50:49.919Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

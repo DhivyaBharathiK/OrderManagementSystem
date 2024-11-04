@@ -1,0 +1,270 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+OMS.Web
+</name>
+</assembly>
+<members>
+<member name="T:OMS.Web.My.MyWebExtension">
+ <summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:OMS.Web.My.MyWebExtension.Computer">
+ <summary>
+ Returns information about the host computer.
+ </summary>
+</member>
+<member name="P:OMS.Web.My.MyWebExtension.User">
+ <summary>
+ Returns information for the current Web user.
+ </summary>
+</member>
+<member name="P:OMS.Web.My.MyWebExtension.Request">
+ <summary>
+ Returns Request object.
+ </summary>
+</member>
+<member name="P:OMS.Web.My.MyWebExtension.Response">
+ <summary>
+ Returns Response object.
+ </summary>
+</member>
+<member name="P:OMS.Web.My.MyWebExtension.Log">
+ <summary>
+ Returns the Asp log object.
+ </summary>
+</member>
+<member name="F:OMS.Web.AddUpdateOrderDetails._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:OMS.Web.AddUpdateOrderDetails._divOrderNumber">
+<summary>
+divOrderNumber control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:OMS.Web.AddUpdateOrderDetails._txtOrderNumber">
+<summary>
+txtOrderNumber control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:OMS.Web.AddUpdateOrderDetails._txtOrderDate">
+<summary>
+txtOrderDate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:OMS.Web.AddUpdateOrderDetails._divAmount">
+<summary>
+divAmount control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:OMS.Web.AddUpdateOrderDetails._txtOrderAmount">
+<summary>
+txtOrderAmount control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:OMS.Web.AddUpdateOrderDetails._ddlVendor">
+<summary>
+ddlVendor control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:OMS.Web.AddUpdateOrderDetails._txtShop">
+<summary>
+txtShop control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:OMS.Web.AddUpdateOrderDetails._btnSave">
+<summary>
+btnSave control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:OMS.Web.AddUpdateOrderDetails._OrderIdHiddenField">
+<summary>
+OrderIdHiddenField control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="M:OMS.Web.AddUpdateOrderDetails.HandlePageLoad">
+ <summary>
+ Determines the action (Add/Edit) to be performed on the page load
+ </summary>
+</member>
+<member name="M:OMS.Web.AddUpdateOrderDetails.btnSave_Click(System.Object,System.EventArgs)">
+ <summary>
+ Saves the order details to the database
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:OMS.Web.AddUpdateOrderDetails.LoadVendors">
+ <summary>
+ Load the list of vendors to the dropdown
+ </summary>
+</member>
+<member name="M:OMS.Web.AddUpdateOrderDetails.BindVendorsToDropdown(System.Collections.Generic.List{OMS.Business.Vendor})">
+ <summary>
+ Data bind the vendors list to the dropdown
+ </summary>
+ <param name="vendorsList"></param>
+</member>
+<member name="M:OMS.Web.AddUpdateOrderDetails.LoadOrderSummaryDetails(System.Int32)">
+ <summary>
+ Load the selected order details for editing
+ </summary>
+ <param name="orderId"></param>
+</member>
+<member name="M:OMS.Web.AddUpdateOrderDetails.PopulateOrderDetailsForEdit(OMS.Business.Order)">
+ <summary>
+ Populate the order details for editing
+ </summary>
+ <param name="order"></param>
+</member>
+<member name="M:OMS.Web.AddUpdateOrderDetails.SetVendorForSelectedOrder(System.Int32)">
+ <summary>
+ Set the selected vendor for the order 
+ </summary>
+ <param name="selectedVendorId"></param>
+</member>
+<member name="F:OMS.Web.GetOrderDetails._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:OMS.Web.GetOrderDetails._btnAdd">
+<summary>
+btnAdd control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:OMS.Web.GetOrderDetails._btnDeleteSelected">
+<summary>
+btnDeleteSelected control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:OMS.Web.GetOrderDetails._gvOrders">
+<summary>
+gvOrders control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="M:OMS.Web.GetOrderDetails.btnDelete_Click(System.Object,System.EventArgs)">
+ <summary>
+ Delete a single order from the database
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:OMS.Web.GetOrderDetails.btnDeleteSelected_Click(System.Object,System.EventArgs)">
+ <summary>
+ Delete Selected Order(s) from the database
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:OMS.Web.GetOrderDetails.LoadOrderDetails">
+ <summary>
+ Get the order details from the database and display them in the view
+ </summary>
+</member>
+<member name="M:OMS.Web.GetOrderDetails.GetSelectedOrderIds">
+ <summary>
+ Get the orders that are selected in the GridView
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:OMS.Web.AddUpdateOrderDetailsPresenter.GetVendors">
+ <summary>
+ Get vendors from the database
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:OMS.Web.AddUpdateOrderDetailsPresenter.GetOrderSummary(System.Int32)">
+ <summary>
+ Get the order summary from the database
+ </summary>
+ <param name="orderId"></param>
+ <returns></returns>
+</member>
+<member name="M:OMS.Web.AddUpdateOrderDetailsPresenter.AddOrderDetails(OMS.Business.Order)">
+ <summary>
+ Add the order details to the database
+ </summary>
+ <param name="order"></param>
+</member>
+<member name="M:OMS.Web.GetOrderDetailsPresenter.GetOrderDetails">
+ <summary>
+ Get the order details from the database and display them in the view
+ </summary>
+</member>
+<member name="M:OMS.Web.GetOrderDetailsPresenter.DeleteOrder(System.Int32)">
+ <summary>
+ Delete an order from the database
+ </summary>
+ <param name="orderId"></param>
+</member>
+<member name="M:OMS.Web.GetOrderDetailsPresenter.DeleteSelectedOrders(System.Collections.Generic.List{System.Int32})">
+ <summary>
+ Delete a list of orders from the database
+ This executes on Delete Selected button click
+ </summary>
+ <param name="orderIdList"></param>
+</member>
+</members>
+</doc>

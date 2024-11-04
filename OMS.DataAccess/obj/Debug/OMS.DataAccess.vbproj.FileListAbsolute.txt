@@ -1,0 +1,14 @@
+C:\Users\hsudhan\source\repos\OrderManagementSystem\OMS.DataAccess\bin\Debug\OMS.DataAccess.dll
+C:\Users\hsudhan\source\repos\OrderManagementSystem\OMS.DataAccess\bin\Debug\OMS.DataAccess.pdb
+C:\Users\hsudhan\source\repos\OrderManagementSystem\OMS.DataAccess\bin\Debug\OMS.DataAccess.xml
+C:\Users\hsudhan\source\repos\OrderManagementSystem\OMS.DataAccess\bin\Debug\OMS.Business.dll
+C:\Users\hsudhan\source\repos\OrderManagementSystem\OMS.DataAccess\bin\Debug\OMS.Business.pdb
+C:\Users\hsudhan\source\repos\OrderManagementSystem\OMS.DataAccess\bin\Debug\OMS.Business.xml
+C:\Users\hsudhan\source\repos\OrderManagementSystem\OMS.DataAccess\obj\Debug\OMS.DataAccess.vbproj.AssemblyReference.cache
+C:\Users\hsudhan\source\repos\OrderManagementSystem\OMS.DataAccess\obj\Debug\OMS.DataAccess.Resources.resources
+C:\Users\hsudhan\source\repos\OrderManagementSystem\OMS.DataAccess\obj\Debug\OMS.DataAccess.vbproj.GenerateResource.cache
+C:\Users\hsudhan\source\repos\OrderManagementSystem\OMS.DataAccess\obj\Debug\OMS.DataAccess.vbproj.CoreCompileInputs.cache
+C:\Users\hsudhan\source\repos\OrderManagementSystem\OMS.DataAccess\obj\Debug\OMS.Data.0267D9CC.Up2Date
+C:\Users\hsudhan\source\repos\OrderManagementSystem\OMS.DataAccess\obj\Debug\OMS.DataAccess.dll
+C:\Users\hsudhan\source\repos\OrderManagementSystem\OMS.DataAccess\obj\Debug\OMS.DataAccess.xml
+C:\Users\hsudhan\source\repos\OrderManagementSystem\OMS.DataAccess\obj\Debug\OMS.DataAccess.pdb

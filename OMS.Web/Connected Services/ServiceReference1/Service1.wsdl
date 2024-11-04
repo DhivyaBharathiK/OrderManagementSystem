@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tns="http://tempuri.org/" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" name="Service1" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:53591/Service1.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:53591/Service1.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:53591/Service1.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/OMS.Business" />
+      <xsd:import schemaLocation="http://localhost:53591/Service1.svc?xsd=xsd3" namespace="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IService1_GetOrderDetails_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetOrderDetails" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetOrderDetails_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetOrderDetailsResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetOrderSummary_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetOrderSummary" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetOrderSummary_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetOrderSummaryResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetVendors_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetVendors" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetVendors_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetVendorsResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_AddOrderDetails_InputMessage">
+    <wsdl:part name="parameters" element="tns:AddOrderDetails" />
+  </wsdl:message>
+  <wsdl:message name="IService1_AddOrderDetails_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AddOrderDetailsResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_DeleteOrder_InputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteOrder" />
+  </wsdl:message>
+  <wsdl:message name="IService1_DeleteOrder_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteOrderResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_DeleteSelectedOrderInList_InputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteSelectedOrderInList" />
+  </wsdl:message>
+  <wsdl:message name="IService1_DeleteSelectedOrderInList_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteSelectedOrderInListResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IService1">
+    <wsdl:operation name="GetOrderDetails">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetOrderDetails" message="tns:IService1_GetOrderDetails_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetOrderDetailsResponse" message="tns:IService1_GetOrderDetails_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetOrderSummary">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetOrderSummary" message="tns:IService1_GetOrderSummary_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetOrderSummaryResponse" message="tns:IService1_GetOrderSummary_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetVendors">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetVendors" message="tns:IService1_GetVendors_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetVendorsResponse" message="tns:IService1_GetVendors_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AddOrderDetails">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/AddOrderDetails" message="tns:IService1_AddOrderDetails_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/AddOrderDetailsResponse" message="tns:IService1_AddOrderDetails_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DeleteOrder">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/DeleteOrder" message="tns:IService1_DeleteOrder_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/DeleteOrderResponse" message="tns:IService1_DeleteOrder_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DeleteSelectedOrderInList">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/DeleteSelectedOrderInList" message="tns:IService1_DeleteSelectedOrderInList_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/DeleteSelectedOrderInListResponse" message="tns:IService1_DeleteSelectedOrderInList_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IService1" type="tns:IService1">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetOrderDetails">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetOrderDetails" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetOrderSummary">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetOrderSummary" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetVendors">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetVendors" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddOrderDetails">
+      <soap:operation soapAction="http://tempuri.org/IService1/AddOrderDetails" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteOrder">
+      <soap:operation soapAction="http://tempuri.org/IService1/DeleteOrder" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteSelectedOrderInList">
+      <soap:operation soapAction="http://tempuri.org/IService1/DeleteSelectedOrderInList" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Service1">
+    <wsdl:port name="BasicHttpBinding_IService1" binding="tns:BasicHttpBinding_IService1">
+      <soap:address location="http://localhost:53591/Service1.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

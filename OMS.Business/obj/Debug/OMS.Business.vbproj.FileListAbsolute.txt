@@ -1,0 +1,10 @@
+C:\Users\hsudhan\source\repos\OrderManagementSystem\OMS.Business\bin\Debug\OMS.Business.dll
+C:\Users\hsudhan\source\repos\OrderManagementSystem\OMS.Business\bin\Debug\OMS.Business.pdb
+C:\Users\hsudhan\source\repos\OrderManagementSystem\OMS.Business\bin\Debug\OMS.Business.xml
+C:\Users\hsudhan\source\repos\OrderManagementSystem\OMS.Business\obj\Debug\OMS.Business.vbproj.AssemblyReference.cache
+C:\Users\hsudhan\source\repos\OrderManagementSystem\OMS.Business\obj\Debug\OMS.Business.Resources.resources
+C:\Users\hsudhan\source\repos\OrderManagementSystem\OMS.Business\obj\Debug\OMS.Business.vbproj.GenerateResource.cache
+C:\Users\hsudhan\source\repos\OrderManagementSystem\OMS.Business\obj\Debug\OMS.Business.vbproj.CoreCompileInputs.cache
+C:\Users\hsudhan\source\repos\OrderManagementSystem\OMS.Business\obj\Debug\OMS.Business.dll
+C:\Users\hsudhan\source\repos\OrderManagementSystem\OMS.Business\obj\Debug\OMS.Business.xml
+C:\Users\hsudhan\source\repos\OrderManagementSystem\OMS.Business\obj\Debug\OMS.Business.pdb
